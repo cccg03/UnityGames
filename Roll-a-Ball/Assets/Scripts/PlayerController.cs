@@ -11,16 +11,13 @@ public class PlayerController : MonoBehaviour {
 	public Text winText;
 	public Text countText;
 	public float speed;
-	void Start() {
 	
+	void Start() {
+		
 	rb = GetComponent<Rigidbody>();
 	count = 0;
 	SetCountText();
 	winText.text = "";
-	}
-
-	void Update() {
-
 	}
 
 	// For physics updates
@@ -36,17 +33,18 @@ public class PlayerController : MonoBehaviour {
 	}
 
     void OnTriggerEnter(Collider other) {
+	    
     	if (other.gameObject.CompareTag("Pick Up")) {
     		other.gameObject.SetActive (false);
     		count ++;
-			SetCountText();
-    		}	  
+		SetCountText();
+    	}	  
     }	
 
 	void SetCountText() {
 		countText.text = "Count: " + count.ToString();
 		if (count >= 10) {
 			winText.text = "YOU WIN!";
-			}
+		}
 	}
 }
