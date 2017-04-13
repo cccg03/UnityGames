@@ -1,0 +1,12 @@
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\UnityEditor.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\UnityEngine.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\nunit.framework.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\obj\Debug\Assembly-CSharp.dll
+C:\Users\i57133\Documents\repos\Unity\Number Wizard\obj\Debug\Assembly-CSharp.pdb
