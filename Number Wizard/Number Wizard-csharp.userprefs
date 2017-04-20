@@ -1,6 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp-vs.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Roll-a-Ball\Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="..\Roll-a-Ball\Assets\Scripts\PlayerController.cs" Line="24" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
