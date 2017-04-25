@@ -5,8 +5,9 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour {
 
     public float speed = 20.0f;
+    public GameObject projectile;
     private float padding = .5f;
-
+  
     float xmin;
     float xmax;
 
